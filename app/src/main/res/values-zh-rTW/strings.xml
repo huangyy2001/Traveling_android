@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">" 環遊世界"</string>
+    <string name="asia">亞洲</string>
+    <string name="hk">香港</string>
+    <string name="zurich">蘇黎世</string>
+    <string name="paris">巴黎</string>
+    <string name="beijing">北京</string>
+    <string name="action_settings">設定</string>
+    <string name="action_about">關於</string>
+    <string name="email">電子郵件</string>
+    <string name="phone">打電話</string>
+    <string name="isDescription">是否需要描述?</string>
+    <string name="optText">選項文字</string>
+    <string name="fontSize">字型大小</string>
+    <string name="parisDesp">巴黎艾菲爾鐵塔</string>
+    <string name="zurichDesp">蘇黎世</string>
+    <string name="hkDesp">香港</string>
+    <string name="beijingDesp">北京</string>
+    <string name="homepage">我的首頁</string>
+    <string name="version">想旅行 v.0.1</string>
+    <string name="author">作者 黃雅宜</string>
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="action_about">About</string>
+    <string name="paris">Paris</string>
+    <string name="zurich">Zurich</string>
+    <string name="asia">Asia Cities</string>
+    <string name="beijing">Beijing</string>
+    <string name="hk">Hong Kong</string>
+    <string name="isDescription">Description</string>
+    <string name="optText">Optional Text</string>
+    <string name="fontSize">Font Size</string>
+    <string name="parisDesp">Eiffel Tower, Paris</string>
+    <string name="zurichDesp">zurich , zurich</string>
+    <string name="hkDesp">HK,HK</string>
+    <string name="beijingDesp">beijing</string>
+    <string name="version">Traveling v.0.1</string>
+    <string name="author">Author: YaYi Huang</string>
+    <string name="email">Email Me</string>
+    <string name="homepage">Visit My Homepage</string>
+    <string name="phone">Call Me</string>
+    <string name="action_settings">Setting</string>
+    <string name="app_name">Traveling Around the World</string>
+</resources>
